@@ -87,6 +87,15 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+menu {
+   position: relative;
+   display: block;
+   padding: 8px 10px;
+   border-bottom: 1px solid;
+   color: #4078c0;
+   text-decoration: none;
+}
+
 a {
   color:#39c;
   text-decoration:none;
