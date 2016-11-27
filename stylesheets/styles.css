@@ -87,7 +87,7 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-menu {
+div.menu {
    position: relative;
    display: block;
    padding: 8px 10px;
