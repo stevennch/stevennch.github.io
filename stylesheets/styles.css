@@ -88,12 +88,11 @@ h3, h4, h5, h6 {
 }
 
 p.menu {
-   position: relative;
-   display: block;
-   padding: 8px 10px;
-   border-bottom: 1px solid;
-   color: #4078c0;
-   text-decoration: none;
+   margin-bottom: 15px;
+   list-style: none;
+   background-color: #fff;
+   border: 1px solid #d8d8d8;
+   border-radius: 3px;
 }
 
 a {
