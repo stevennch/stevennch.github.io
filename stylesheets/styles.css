@@ -167,9 +167,10 @@ header {
 header ul li {
 	list-style-type: none;
 	position: relative;
+	text-align:left;
 }
 
-header li:after {
+header li {
 	display: block;
 	content: '';
 	position: absolute;
