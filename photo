@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Photo|Steven Ng Blog</title>
 
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
     <link rel="shortcut icon" href="favicon.jpeg">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
