@@ -87,20 +87,6 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-p.menu {
-	display: block;
-	content: '';
-	position: absolute;
-	top: .6em;
-	left: -1em;
-	width: 6px;
-	height: 6px;
-	border-right: 1px solid #f7594d;
-	border-bottom: 1px solid #f7594d;
-	-webkit-transform: rotate(-45deg);
-	transform: rotate(-45deg);
-}
-
 a {
   color:#39c;
   text-decoration:none;
