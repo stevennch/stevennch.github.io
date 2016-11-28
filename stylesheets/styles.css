@@ -291,7 +291,7 @@ footer {
     padding:0;
   }
 
-  header ul, header li.menu {
+  header ul, header p.view {
     position:static;
   }
 
