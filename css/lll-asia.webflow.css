@@ -279,6 +279,10 @@
   margin-top: 100px;
 }
 
+.member-block:last-child {
+  margin-bottom: 100px;
+}
+
 .access {
   position: relative;
   display: -webkit-box;
@@ -716,9 +720,6 @@
   }
   .team {
     padding-top: 60px;
-  }
-  .member-block:first-child {
-    margin-top: 0;
   }
   .image-5 {
     width: 100%;
