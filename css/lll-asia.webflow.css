@@ -524,6 +524,11 @@
   color: #c4c4c4;
 }
 
+.twitter img {
+  padding: 3px;
+  margin-left: 16px;
+}
+
 @media (max-width: 991px) {
   .div-block-2 {
     left: 40px;
